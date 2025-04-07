@@ -1,0 +1,10 @@
+// 1️⃣ Criar as funções dos GETs no controller (controllers/taskController.js)
+// 2️⃣ Exportar as funções do controller
+// 3️⃣ Criar as rotas no arquivo de rotas (routes/taskRoutes.js)
+// 4️⃣ Importar e usar as rotas no index.js
+
+// GET	/tasks	Lista todas as tarefas ✅
+// GET	/tasks/:id	Busca uma tarefa pelo ID ✅
+// POST	/tasks	Cria uma nova tarefa ✅
+// PUT	/tasks/:id	Atualiza uma tarefa pelo ID
+// DELETE	/tasks/:id	Remove uma tarefa pelo ID
